@@ -10,3 +10,9 @@ atividades e comunidades de desenvolvedores de software (Coding Dojo, Coderetrea
  teste de software.
  
   engenharia de software, sistemas de manufatura, reuso de software, processo de desenvolvimento, simulação e montagem.
+  
+  ## Resumo
+   - Aspectos Humanos
+   - Métodos Ágeis
+   - Paradigma orientado a notificações
+   - Testes
