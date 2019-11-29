@@ -40,6 +40,23 @@ como conferencista, membro de banca de exame ou co-autor de
 eventual trabalho, quando relatadas por um programa ou curso de
 pós-graduação, poderão complementar a análise da atuação do programa.
 
+## Docentes e Pesquisadores Visitantes
+
+Art. 7º Integram a categoria de visitantes os docentes ou
+pesquisadores com vínculo funcional-administrativo com outras instituições, brasileiras ou não, que sejam liberados, mediante acordo
+formal, das atividades correspondentes a tal vínculo para colaborarem, por um período contínuo de tempo e em regime de dedicação
+integral, em projeto de pesquisa e/ou atividades de ensino no programa, permitindo-se que atuem como orientadores e em atividades
+de extensão.
+Parágrafo único. A atuação dos docentes ou pesquisadores
+visitantes no programa deverá ser viabilizada por contrato de trabalho
+por tempo determinado com a instituição ou por bolsa concedida para
+esse fim, pela própria instituição ou por agência de fomento.
+
+Art. 8º A pontuação da produção intelectual dos docentes
+visitantes, será definida em cada área de avaliação, atendidas as
+diretrizes que possam ser estabelecidas na grande área de conhecimento e pelo Conselho Técnico e Científico da Educação Superior
+(CTC-ES), bem como aquelas emanadas da Diretoria de Avaliação.
+
 ## Estabilidade, credenciamentos e descredenciamentos
 
 
