@@ -55,7 +55,8 @@ O sistema disponibilizado pelo Prof. Adenilso Simão, ICMC-USP, já considera es
 
 http://thanos.icmc.usp.br:4001/version/create
 
-O quadriênio 2017-2020 será avaliado baseado no Novo Qualis, embora a Capes não o tenho oficializado por meio de ofício.
+O quadriênio 2017-2020 será avaliado baseado no Novo Qualis, embora a Capes 
+não o tenho oficializado por meio de ofício.
 
 
 begin -------- Web of Science ---------------------------
@@ -81,7 +82,8 @@ Engineering, electrical & electronic)
 
 Fator de Impacto (FI): Web of Science (Journal Citations Report)
 • Número de citações recebidas por todos os documentos dividido
-pelo Número de documentos "citáveis", onde "citações recebidas" = citações nos 2 anos posteriores à publicação.
+pelo Número de documentos "citáveis", onde "citações recebidas" = citações nos 
+2 anos posteriores à publicação.
 FI (5 anos): citações nos 5 anos posteriores à publicação.
 Documentos Citáveis:
 - Artigos, revisões, resumos de congressos ou notas.
@@ -109,7 +111,8 @@ estratificação, o maior valor de percentil entre eles.
 CiteScore Scopus
 CitesScore (2 years, 3 years, x years) = Numero médio de
 citações por documento em um período de 2, 3 ou x anos.
-Indicador comparável com o JCR pela forma de cálculo, porém há diferenças no padrão de citações 
+Indicador comparável com o JCR pela forma de cálculo, porém há diferenças no 
+padrão de citações 
 conforme acesso e cobertura das bases.
 
 end ------------------ CiteScore Scopus -------------------
@@ -125,7 +128,8 @@ begin ----------- Google Scholar ---------------------------
 - Aperte a lupa.
 
 Duas métricas:
-• Índice h5: Número h de uma publicação, em que h artigos publicados nos últimos 5 anos tenham 
+• Índice h5: Número h de uma publicação, em que h artigos publicados 
+nos últimos 5 anos tenham 
 sido citados no mínimo h vezes cada.
 • Mediana h5 de uma publicação consiste na média de citações para os
 artigos que compõem seu índice h5.
