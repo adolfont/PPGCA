@@ -29,7 +29,9 @@ Coordenadora de Pós, Instituto de Computação (IC) - Unicamp.
 Agradecimentos ao Prof.Dr. Leonardo Montecchi pela ajuda para compilar essas instruções.
 
 Introdução
+~~~
 De acordo com o CA-CC-Capes, o conceito de “Lista Qualis”, seja de conferências ou de periódicos, não existe mais. O Novo Qualis, chamado de "Qualis Referência", é calculado utilizando-se indicadores bibliométricos e seus percentis, a saber:
+~~~
 • Web of Science: Fator de Impacto (FI)
 • Scopus: CiteScore
 • Google Scholar
@@ -105,7 +107,8 @@ estratificação, o maior valor de percentil entre eles.
 CiteScore Scopus
 CitesScore (2 years, 3 years, x years) = Numero médio de
 citações por documento em um período de 2, 3 ou x anos.
-Indicador comparável com o JCR pela forma de cálculo, porém há diferenças no padrão de citações conforme acesso e cobertura das bases.
+Indicador comparável com o JCR pela forma de cálculo, porém há diferenças no padrão de citações 
+conforme acesso e cobertura das bases.
 
 end ------------------ CiteScore Scopus -------------------
 
@@ -146,7 +149,9 @@ Indução de periódicos e eventos SBC
 
 Segundo o documento “Relatório do Qualis Periódicos e Eventos Científicos” (http://capes.gov.br/images/Relatorio_qualis_periodicos_referencia_2019/Ciencia_Computacao.pdf): 
 
-“Como forma de indução, os periódicos nacionais publicados pela SBC foram acrescidos em 2 níveis (5 periódicos) em relação ao calculado pela metodologia descrita na Seção 2 (7 de 539 periódicos - 1,3% dos periódicos classificados pela Computação).”
+“Como forma de indução, os periódicos nacionais publicados pela SBC foram acrescidos em 
+2 níveis (5 periódicos) em relação ao calculado pela metodologia descrita na Seção 2 
+(7 de 539 periódicos - 1,3% dos periódicos classificados pela Computação).”
 
 A seguir a lista dos journals da SBC que consegui listar, não sei se a lista está completa:
 
@@ -169,6 +174,6 @@ B3  Revista Brasileira de Informática na Educação (RBIE)
 Nota: se não me engano, o JISA é naturalmente A2, não necessitando indução.
 
 Ainda segundo o documento citado anteriormente:
-
-“Finalmente, foram também aplicados critérios de indução, pela Comissão, para os principais eventos nacionais e tradicionais promovidos pela SBC. Eventos com pelo menos 20 anos de tradição foram classificados em A4 (8 de 1552 eventos) e eventos com pelo menos 10 anos de tradição foram classificados no estrato B1 (13 de 1552 eventos), a menos que já tivessem sido classificados em estratos melhores.”
 ~~~
+“Finalmente, foram também aplicados critérios de indução, pela Comissão, para os principais eventos nacionais e tradicionais promovidos pela SBC. Eventos com pelo menos 20 anos de tradição foram classificados em A4 (8 de 1552 eventos) e eventos com pelo menos 10 anos de tradição foram classificados no estrato B1 (13 de 1552 eventos), a menos que já tivessem sido classificados em estratos melhores.”
+
