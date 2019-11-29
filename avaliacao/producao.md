@@ -30,7 +30,8 @@ Agradecimentos ao Prof.Dr. Leonardo Montecchi pela ajuda para compilar essas ins
 
 Introdução
 ~~~
-De acordo com o CA-CC-Capes, o conceito de “Lista Qualis”, seja de conferências ou de periódicos, não existe mais. O Novo Qualis, chamado de "Qualis Referência", é calculado utilizando-se indicadores bibliométricos e seus percentis, a saber:
+De acordo com o CA-CC-Capes, o conceito de “Lista Qualis”, seja de conferências ou de periódicos, não existe mais. 
+O Novo Qualis, chamado de "Qualis Referência", é calculado utilizando-se indicadores bibliométricos e seus percentis, a saber:
 ~~~
 • Web of Science: Fator de Impacto (FI)
 • Scopus: CiteScore
@@ -84,7 +85,8 @@ pelo Número de documentos "citáveis", onde "citações recebidas" = citações
 FI (5 anos): citações nos 5 anos posteriores à publicação.
 Documentos Citáveis:
 - Artigos, revisões, resumos de congressos ou notas.
-Só pode ser usado para comparar periódicos na mesma área do conhecimento (áreas possuem padrão diferenciado de citações)
+Só pode ser usado para comparar periódicos na mesma área do conhecimento 
+(áreas possuem padrão diferenciado de citações)
 
 end ---------------- Web of Science -----------------------
 
@@ -123,11 +125,13 @@ begin ----------- Google Scholar ---------------------------
 - Aperte a lupa.
 
 Duas métricas:
-• Índice h5: Número h de uma publicação, em que h artigos publicados nos últimos 5 anos tenham sido citados no mínimo h vezes cada.
+• Índice h5: Número h de uma publicação, em que h artigos publicados nos últimos 5 anos tenham 
+sido citados no mínimo h vezes cada.
 • Mediana h5 de uma publicação consiste na média de citações para os
 artigos que compõem seu índice h5.
 
-Ele considera todo tipo de citação que o Google possa buscar, inclusive fontes não revisadas por pares. Citações em teses, relatórios técnicos e apresentações também são computadas.
+Ele considera todo tipo de citação que o Google possa buscar, inclusive fontes não revisadas 
+por pares. Citações em teses, relatórios técnicos e apresentações também são computadas.
 Dificuldade na obtenção dos indicadores:
 • Não há forma de download ou acesso automatizado à listagem e indicadores.
 • Nas listas apresentadas, não constam os ISSN das revistas.
@@ -147,7 +151,8 @@ end ----------------- Google Scholar ----------------------------
 
 Indução de periódicos e eventos SBC
 
-Segundo o documento “Relatório do Qualis Periódicos e Eventos Científicos” (http://capes.gov.br/images/Relatorio_qualis_periodicos_referencia_2019/Ciencia_Computacao.pdf): 
+Segundo o documento “Relatório do Qualis Periódicos e Eventos Científicos” 
+(http://capes.gov.br/images/Relatorio_qualis_periodicos_referencia_2019/Ciencia_Computacao.pdf): 
 
 “Como forma de indução, os periódicos nacionais publicados pela SBC foram acrescidos em 
 2 níveis (5 periódicos) em relação ao calculado pela metodologia descrita na Seção 2 
