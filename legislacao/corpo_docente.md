@@ -7,7 +7,7 @@
 
 https://www.capes.gov.br/images/stories/download/legislacao/06062016-PORTARIA-N-8-De-3-DE-JUNHO-DE-2016.pdf
 
-## Critérios para ser permanente
+## Docentes permanentes
 
 
 Art. 3º Integram a categoria de permanentes os docentes enquadrados e declarados anualmente pelo PPG na plataforma Sucupira e que atendam a todos os seguintes pré-requisitos:
@@ -25,6 +25,20 @@ participação como docente do PPG;
 como docente do PPG;
     - d) a critério do PPG, quando o docente estiver em afastamento longo para a realização de estágio pós-doutoral, estágio sênior ou atividade relevante em Educação, Ciência, Tecnologia e Inovação e não atender ao estabelecido pelos incisos I e II deste artigo,
 desde que atendidos os demais requisitos fixados.
+
+## Docentes Colaboradores
+
+Art. 9º Integram a categoria de colaboradores os demais
+membros do corpo docente do programa que não atendam aos requisitos para serem enquadrados como docentes permanentes ou como visitantes, incluídos os bolsistas de pós-doutorado, mas que participem de forma sistemática do desenvolvimento de projetos de pesquisa ou atividades de ensino ou extensão e/ou da orientação de
+estudantes, independentemente de possuírem ou não vínculo com a
+instituição.
+-  I - O desempenho de atividades esporádicas como conferencista, membro de banca de exame ou co-autor de trabalhos não
+caracteriza um profissional como integrante do corpo docente do
+programa, não podendo o mesmo ser enquadrado como docente colaborador;
+- II - Informações sobre atividades esporádicas do colaborador
+como conferencista, membro de banca de exame ou co-autor de
+eventual trabalho, quando relatadas por um programa ou curso de
+pós-graduação, poderão complementar a análise da atuação do programa.
 
 ## Estabilidade, credenciamentos e descredenciamentos
 
