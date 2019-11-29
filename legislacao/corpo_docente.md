@@ -100,3 +100,25 @@ espera-se que o corpo docente possua comprovada capacidade de produção
 tecnológica (como registros de software, patentes, produção de software e outros
 artefatos tecnológicos relevantes e inovadores), distribuída de maneira
 equilibrada pelo corpo docente
+
+Com o intuito de incentivar e estimular o credenciamento de professores jovens
+recém contratados **(PPJ – Professor Permanente Junior)**, os programas poderão
+destacar até dez por cento (10%) de seu corpo docente permanente como PPJ.
+Nesse caso, **não será considerada a produção científica do PPJ e este(s)
+professor(es) PPJ também não será(ão) considerado(s) no cômputo das médias
+do programa.** Para este quadriênio poderão ser considerados como PPJ os
+professores que obtiveram sua **titulação a partir de 2013.** 
+
+Além disso, é frequente
+que ocorra evasão de professores seniores do corpo permanente dos programas.
+Com o objetivo de estimular a permanência de professores seniores como
+permanentes no programa **(PPS – Professor Permanente Sênior),** os programas
+podem destacar até 10% de seu corpo docente permanente como PPS. Poderão
+ser considerados PPS **aqueles com mais de 60 anos.** 
+Também nesse caso, o PPS
+não é considerado no cálculo dos índices do programa. **O total da soma de
+professores PPJ e PPS deve ser no máximo o maior valor entre quatro (4) e 10%
+do corpo docente permanente do programa.** *No último ano do quadriênio cada
+programa deve declarar na Plataforma Sucupira a relação dos professores a
+serem considerados como PPJ e PPS para cada um dos anos da avaliação,
+respeitando os limites definidos acima.*
