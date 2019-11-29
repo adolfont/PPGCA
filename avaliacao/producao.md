@@ -4,11 +4,11 @@
 
 1) desenvolvimento de produto patenteável; 
 2) desenvolvimento de processo patenteável; 
-- c) software (programa de computador); 
-- d) artigo publicado em revista técnica; 
-- e) desenvolvimento de tecnologia social; 
-- f) participação em comissão técnico-científica;
-- g) base de dados técnico-científica; 
-- h) membro de conselho gestor ou comitê técnico; 
-- i) organização de revista, anais (incluindo editoria e corpo editorial); 
-- j) organização de livro, catálogo, coletânea e enciclopédia.
+1) software (programa de computador); 
+1) artigo publicado em revista técnica; 
+1) desenvolvimento de tecnologia social; 
+1) participação em comissão técnico-científica;
+1) base de dados técnico-científica; 
+1) membro de conselho gestor ou comitê técnico; 
+1) organização de revista, anais (incluindo editoria e corpo editorial); 
+1) organização de livro, catálogo, coletânea e enciclopédia.
