@@ -13,6 +13,8 @@
 1) organização de revista, anais (incluindo editoria e corpo editorial); 
 1) organização de livro, catálogo, coletânea e enciclopédia.
 
+Ver também https://www.capes.gov.br/images/novo_portal/documentos/DAV/avaliacao/10062019_Produ%C3%A7%C3%A3o-T%C3%A9cnica.pdf
+
 
 # Produção Bibliográfica
 
