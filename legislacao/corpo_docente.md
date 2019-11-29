@@ -43,10 +43,11 @@ pós-graduação, poderão complementar a análise da atuação do programa.
 ## Docentes e Pesquisadores Visitantes
 
 Art. 7º Integram a categoria de visitantes os docentes ou
-pesquisadores com vínculo funcional-administrativo com outras instituições, brasileiras ou não, que sejam liberados, mediante acordo
+pesquisadores com **vínculo funcional-administrativo com outras instituições,** brasileiras ou não, que sejam liberados, mediante acordo
 formal, das atividades correspondentes a tal vínculo para colaborarem, por um período contínuo de tempo e em regime de dedicação
-integral, em projeto de pesquisa e/ou atividades de ensino no programa, permitindo-se que atuem como orientadores e em atividades
-de extensão.
+integral, em projeto de pesquisa e/ou atividades de ensino no programa, **permitindo-se que atuem como orientadores e em atividades
+de extensão.**
+
 Parágrafo único. A atuação dos docentes ou pesquisadores
 visitantes no programa deverá ser viabilizada por contrato de trabalho
 por tempo determinado com a instituição ou por bolsa concedida para
