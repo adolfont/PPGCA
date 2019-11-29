@@ -69,3 +69,34 @@ PPG's, será requerido dos mesmos as justificativas das ocorrências de
 credenciamentos e descredenciamentos, ano a ano, dos integrantes
 desta categoria de acordo com as regras bem definidas que devem
 constar obrigatoriamente nos respectivos regimentos.
+
+# Documento de Área 2019
+
+Link: https://www.capes.gov.br/images/Documento_de_%C3%A1rea_2019/CCOMP.pdf
+
+- número de professores permanentes deve ser no mínimo de 60% do total de professores do programa
+- recomenda-se que o programa apresente o perfil dos professores do curso,
+enfatizando a sua experiência e resultados mais importantes que justifiquem a sua
+participação no corpo docente do curso profissional
+-  É aceitável que até 40% do corpo docente
+participe de outros programas de pós-graduação. Para programas onde só existe
+mestrado, professores que orientam ou co-orientam doutorado em outro programa
+não contam neste índice. 
+
+Para programas na modalidade profissional: 
+- a) o corpo docente deve ser
+integrado de forma predominante por doutores, profissionais ou técnicos com
+experiência em pesquisa aplicada ao desenvolvimento tecnológico e à inovação,
+de forma que se garanta a formação adequada pretendida; 
+- b) é desejável que os
+doutores tenham alguma experiência em desenvolvimento tecnológico ou
+inovação e interação com empresas e/ou organizações públicas e privadas e/ou
+em pesquisa aplicada. Professores com perfil profissional podem orientar alunos
+e fazer parte do corpo docente permanente. É desejável também a participação
+de professores do quadro permanente com bolsa de produtividade de
+Desenvolvimento Tecnológico e Extensão Inovadora ou bolsas similares; 
+- c)
+espera-se que o corpo docente possua comprovada capacidade de produção
+tecnológica (como registros de software, patentes, produção de software e outros
+artefatos tecnológicos relevantes e inovadores), distribuída de maneira
+equilibrada pelo corpo docente
