@@ -26,3 +26,8 @@ como docente do PPG;
     - d) a critério do PPG, quando o docente estiver em afastamento longo para a realização de estágio pós-doutoral, estágio sênior ou atividade relevante em Educação, Ciência, Tecnologia e Inovação e não atender ao estabelecido pelos incisos I e II deste artigo,
 desde que atendidos os demais requisitos fixados.
 
+## Estabilidade
+
+
+III - A estabilidade, ao longo do quadriênio, do conjunto de docentes declarados como permanentes pelo PPG será objeto de
+acompanhamento e de avaliação sistemática pelas coordenações e comissões de avaliação de área e pela Diretoria de Avaliação;
