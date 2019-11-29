@@ -29,9 +29,9 @@ desde que atendidos os demais requisitos fixados.
 ## Docentes Colaboradores
 
 Art. 9º Integram a categoria de colaboradores os demais
-membros do corpo docente do programa que não atendam aos requisitos para serem enquadrados como docentes permanentes ou como visitantes, incluídos os bolsistas de pós-doutorado, mas que participem de forma sistemática do desenvolvimento de projetos de pesquisa ou atividades de ensino ou extensão e/ou da orientação de
+membros do corpo docente do programa que **não atendam aos requisitos para serem enquadrados como docentes permanentes ou como visitantes**, incluídos os bolsistas de pós-doutorado, mas que **participem de forma sistemática do desenvolvimento de projetos de pesquisa ou atividades de ensino ou extensão e/ou da orientação de
 estudantes, independentemente de possuírem ou não vínculo com a
-instituição.
+instituição.**
 -  I - O desempenho de atividades esporádicas como conferencista, membro de banca de exame ou co-autor de trabalhos não
 caracteriza um profissional como integrante do corpo docente do
 programa, não podendo o mesmo ser enquadrado como docente colaborador;
