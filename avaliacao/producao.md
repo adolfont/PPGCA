@@ -26,13 +26,14 @@ Categoria: documento interno
 Autora: Cecília Mary Fischer Rubira (cmrubira@ic.unicamp.br)
 Coordenadora de Pós, Instituto de Computação (IC) - Unicamp.
 
-Agradecimentos ao Prof.Dr. Leonardo Montecchi pela ajuda para compilar essas instruções.
+Agradecimentos ao Prof.Dr. Leonardo Montecchi pela ajuda para compilar essas 
+instruções.
 
 Introdução
-~~~
-De acordo com o CA-CC-Capes, o conceito de “Lista Qualis”, seja de conferências ou de periódicos, não existe mais. 
-O Novo Qualis, chamado de "Qualis Referência", é calculado utilizando-se indicadores bibliométricos e seus percentis, a saber:
-~~~
+De acordo com o CA-CC-Capes, o conceito de “Lista Qualis”, seja de 
+conferências ou de periódicos, não existe mais. O Novo Qualis, chamado de 
+"Qualis Referência", é calculado utilizando-se indicadores bibliométricos e 
+seus percentis, a saber:
 • Web of Science: Fator de Impacto (FI)
 • Scopus: CiteScore
 • Google Scholar
@@ -49,9 +50,11 @@ f) 25 define valor mínimo do 6o estrato (B2)
 g) 12,5 define valor mínimo do 7o estrato (B3)
 h) Valor máximo do 8o estrato inferior a 12,5 (B4)
 
-Este documento tem por objetivo mostrar como esses indicadores podem ser obtidos na Web. 
+Este documento tem por objetivo mostrar como esses indicadores podem ser 
+obtidos na Web. 
 
-O sistema disponibilizado pelo Prof. Adenilso Simão, ICMC-USP, já considera esse novo cálculo: 
+O sistema disponibilizado pelo Prof. Adenilso Simão, ICMC-USP, já considera 
+esse novo cálculo: 
 
 http://thanos.icmc.usp.br:4001/version/create
 
@@ -65,7 +68,8 @@ begin -------- Web of Science ---------------------------
 - Acesse https://jcr.clarivate.com (Journal Citations Report).
 - Digite o nome do periódico (não precisa ser completo)
 - Aperte o ícone da lupa (habilite pop-ups, se for o caso)
-- Aparece a página com o "Journal Profile" ou uma lista com os resultados da busca (clique no nome do periódico).
+- Aparece a página com o "Journal Profile" ou uma lista com os resultados da 
+busca (clique no nome do periódico).
 - Selecione a aba "Rank" (quase no final da página).
 - vai mostrar "JCR Impact Factor"
 - o resultado é o valor mais alto da(s) coluna(s) "JIF percentile" na
@@ -82,8 +86,8 @@ Engineering, electrical & electronic)
 
 Fator de Impacto (FI): Web of Science (Journal Citations Report)
 • Número de citações recebidas por todos os documentos dividido
-pelo Número de documentos "citáveis", onde "citações recebidas" = citações nos 
-2 anos posteriores à publicação.
+pelo Número de documentos "citáveis", onde "citações recebidas" = 
+citações nos 2 anos posteriores à publicação.
 FI (5 anos): citações nos 5 anos posteriores à publicação.
 Documentos Citáveis:
 - Artigos, revisões, resumos de congressos ou notas.
@@ -111,9 +115,8 @@ estratificação, o maior valor de percentil entre eles.
 CiteScore Scopus
 CitesScore (2 years, 3 years, x years) = Numero médio de
 citações por documento em um período de 2, 3 ou x anos.
-Indicador comparável com o JCR pela forma de cálculo, porém há diferenças no 
-padrão de citações 
-conforme acesso e cobertura das bases.
+Indicador comparável com o JCR pela forma de cálculo, porém há diferenças 
+no padrão de citações conforme acesso e cobertura das bases.
 
 end ------------------ CiteScore Scopus -------------------
 
@@ -128,14 +131,14 @@ begin ----------- Google Scholar ---------------------------
 - Aperte a lupa.
 
 Duas métricas:
-• Índice h5: Número h de uma publicação, em que h artigos publicados 
-nos últimos 5 anos tenham 
-sido citados no mínimo h vezes cada.
+• Índice h5: Número h de uma publicação, em que h artigos publicados nos 
+últimos 5 anos tenham sido citados no mínimo h vezes cada.
 • Mediana h5 de uma publicação consiste na média de citações para os
 artigos que compõem seu índice h5.
 
-Ele considera todo tipo de citação que o Google possa buscar, inclusive fontes não revisadas 
-por pares. Citações em teses, relatórios técnicos e apresentações também são computadas.
+Ele considera todo tipo de citação que o Google possa buscar, inclusive 
+fontes não revisadas por pares. Citações em teses, relatórios técnicos e 
+apresentações também são computadas.
 Dificuldade na obtenção dos indicadores:
 • Não há forma de download ou acesso automatizado à listagem e indicadores.
 • Nas listas apresentadas, não constam os ISSN das revistas.
@@ -155,14 +158,18 @@ end ----------------- Google Scholar ----------------------------
 
 Indução de periódicos e eventos SBC
 
-Segundo o documento “Relatório do Qualis Periódicos e Eventos Científicos” 
-(http://capes.gov.br/images/Relatorio_qualis_periodicos_referencia_2019/Ciencia_Computacao.pdf): 
+Segundo o documento “Relatório do Qualis Periódicos e Eventos 
+Científicos” 
+(http://capes.gov.br/images/Relatorio_qualis_periodicos_referencia_2019/Ciencia_
+Computacao.pdf): 
 
-“Como forma de indução, os periódicos nacionais publicados pela SBC foram acrescidos em 
-2 níveis (5 periódicos) em relação ao calculado pela metodologia descrita na Seção 2 
-(7 de 539 periódicos - 1,3% dos periódicos classificados pela Computação).”
+“Como forma de indução, os periódicos nacionais publicados pela SBC 
+foram acrescidos em 2 níveis (5 periódicos) em relação ao calculado 
+pela metodologia descrita na Seção 2 (7 de 539 periódicos - 1,3% dos 
+periódicos classificados pela Computação).”
 
-A seguir a lista dos journals da SBC que consegui listar, não sei se a lista está completa:
+A seguir a lista dos journals da SBC que consegui listar, não sei se a lista 
+está completa:
 
 Internacionais
 A2 Journal of the Brazilian Computer Society (JBCS)
@@ -183,6 +190,13 @@ B3  Revista Brasileira de Informática na Educação (RBIE)
 Nota: se não me engano, o JISA é naturalmente A2, não necessitando indução.
 
 Ainda segundo o documento citado anteriormente:
+
+“Finalmente, foram também aplicados critérios de indução, pela 
+Comissão, para os principais eventos nacionais e tradicionais promovidos pela 
+SBC. Eventos com pelo menos 20 anos de tradição foram classificados em A4 
+(8 de 1552 eventos) e eventos com pelo menos 10 anos de tradição foram 
+classificados no estrato B1 (13 de 1552 eventos), a menos que já tivessem 
+sido classificados em estratos melhores.”
+
 ~~~
-“Finalmente, foram também aplicados critérios de indução, pela Comissão, para os principais eventos nacionais e tradicionais promovidos pela SBC. Eventos com pelo menos 20 anos de tradição foram classificados em A4 (8 de 1552 eventos) e eventos com pelo menos 10 anos de tradição foram classificados no estrato B1 (13 de 1552 eventos), a menos que já tivessem sido classificados em estratos melhores.”
 
