@@ -3,7 +3,6 @@
 - Coeficiente Máximo: 10.0
 - Coeficiente Médio: 8.909210526315794
 - Mediana de Coeficientes: 9.1
-- Desvio Padrão: 6.387765856039104
 
 # Tempos de Titulação dos alunos(as) formados(as) pelo PPGCA
 - Tempo de Titulação Mínimo: 1 ano(s),  9 mes(es) e 0 dia(s)
