@@ -1,4 +1,4 @@
-# Cursos de área de Computação na UTFPR
+# Cursos de graduação na área de Computação na UTFPR
 
 ## Apucarana
 -  Engenharia de Computação – M e T
