@@ -47,7 +47,7 @@
 Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-primeiro-semestre-de-2020
 
 
-# Cursos de área de Computação em outras universidades públicas
+# Cursos de área de Computação em outras instituições públicas
 
 *Em construção*
 
@@ -57,3 +57,12 @@ Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-pri
 
 - Ciência da Computação
 - Informática Biomédica
+
+## IFPR
+
+- Bacharelado em Sistemas de Informação
+  - Palmas-PR https://reitoria.ifpr.edu.br/bacharelado-em-sistemas-de-informacao/
+
+- Tecnologia em Análise e Desenvolvimento de Sistemas
+  - Dieversos campus https://reitoria.ifpr.edu.br/menu-academico/ensino-superior-e-pos-graduacao/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
+  
