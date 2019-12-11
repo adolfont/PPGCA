@@ -47,7 +47,7 @@
 Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-primeiro-semestre-de-2020
 
 
-# Outras universidades públicas
+# Cursos de área de Computação em outras universidades públicas
 
 *Em construção*
 
