@@ -64,5 +64,5 @@ Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-pri
   - Palmas-PR https://reitoria.ifpr.edu.br/bacharelado-em-sistemas-de-informacao/
 
 - Tecnologia em Análise e Desenvolvimento de Sistemas
-  - Dieversos campus https://reitoria.ifpr.edu.br/menu-academico/ensino-superior-e-pos-graduacao/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
+  - Diversos campus https://reitoria.ifpr.edu.br/menu-academico/ensino-superior-e-pos-graduacao/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
   
