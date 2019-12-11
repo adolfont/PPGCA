@@ -58,6 +58,12 @@ Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-pri
 - Ciência da Computação
 - Informática Biomédica
 
+### Jandaia do Sul
+- Licenciatura em Computação http://www.jandaiadosul.ufpr.br/licenciatura-em-computacao/
+
+### Palorina
+- Licenciatura em Computação  http://www.palotina.ufpr.br/portal/lcp/
+
 ## IFPR
 
 - Bacharelado em Sistemas de Informação
