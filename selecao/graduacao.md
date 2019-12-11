@@ -1,4 +1,4 @@
-# UTFPR
+# Cursos de área de Computação na UTFPR
 
 ## Apucarana
 -  Engenharia de Computação – M e T
@@ -46,9 +46,14 @@
 
 Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-primeiro-semestre-de-2020
 
-# UFPR
 
-## Curitiba
+# Outras universidades públicas
+
+*Em construção*
+
+## UFPR
+
+### Curitiba
 
 - Ciência da Computação
 - Informática Biomédica
