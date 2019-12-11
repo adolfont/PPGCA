@@ -55,8 +55,8 @@ Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-pri
 
 ### Curitiba
 
-- Ciência da Computação
-- Informática Biomédica
+- Ciência da Computação http://web.inf.ufpr.br/bcc/
+- Informática Biomédica http://web.inf.ufpr.br/infobiomedica/
 
 ### Jandaia do Sul
 - Licenciatura em Computação http://www.jandaiadosul.ufpr.br/licenciatura-em-computacao/
