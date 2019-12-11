@@ -61,7 +61,7 @@ Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-pri
 ### Jandaia do Sul
 - Licenciatura em Computação http://www.jandaiadosul.ufpr.br/licenciatura-em-computacao/
 
-### Palorina
+### Palotina
 - Licenciatura em Computação  http://www.palotina.ufpr.br/portal/lcp/
 
 ## IFPR
