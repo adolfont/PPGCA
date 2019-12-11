@@ -45,3 +45,10 @@
 - Tecnologia em Sistemas para Internet – N
 
 Fonte: http://portal.utfpr.edu.br/noticias/geral/utfpr-oferta-4-542-vagas-no-primeiro-semestre-de-2020
+
+# UFPR
+
+## Curitiba
+
+- Ciência da Computação
+- Informática Biomédica
