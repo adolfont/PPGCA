@@ -80,3 +80,4 @@
 1. Monica Cristina Barazzetti	30/08/2019	
 1. Diego Paolo Tsutsumi	04/11/2019	
 1. Marcelo Mendes Da Silva	12/12/2019	
+1. Yussef Parcianello 19/12/2019
