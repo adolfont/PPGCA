@@ -1,4 +1,4 @@
-Processo seletivo 2020: Mestrado em Computação Aplicada - UTFPR - Curitiba
+# Processo seletivo 2020: Mestrado em Computação Aplicada - UTFPR - Curitiba
 
 Prezados(as),
 
@@ -10,7 +10,7 @@ a partir de 10/02/2020 estarão abertas as inscrições para o processo seletivo
 - Sistemas de Informação
 - Sistemas Inteligentes e Lógica
 
-Nesta seleção, estão sendo ofertadas um total de dez vagas, distribuídas nas áreas: Otimização Linear Inteira Mista (uma vaga); Inteligência Computacional (quatro vagas); Processamento de Imagens (duas vagas); Redes de Computadores e Sistemas Distribuídos (duas vagas); e Engenharia de Software e Interação Humano-Computador (uma vaga). Detalhes sobre os tópicos de cada linha podem ser vistos no edital.
+Nesta seleção, estão sendo ofertadas um total de 25 vagas. Detalhes sobre docentes e os tópicos de cada linha podem ser vistos em http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/area-academica/docentes.
 
 A seleção será realizada em duas etapas: análise do Exame de Proficiência em Computação (POSCOMP ou similar) e entrevista, ambas de caráter eliminatório.
 
