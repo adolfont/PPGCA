@@ -1,8 +1,14 @@
-Processo seletivo de verão:: Mestrado em Computação - UFSCar - Sorocaba
+Processo seletivo 2020: Mestrado em Computação Aplicada - UTFPR - Curitiba
 
-Prezados,
+Prezados(as),
 
-a partir de 08/01/2020 estarão abertas as inscrições para o processo seletivo de verão para alunos regulares, curso de mestrado acadêmico do Programa de Pós-Graduação em Ciência da Computação (PPGCC-So) do Campus Sorocaba da UFSCar, com ingresso no primeiro semestre de 2020. O Programa apresenta duas áreas de pesquisa: Computação Científica e Inteligência Computacional; e Engenharia de Software e Sistemas de Computação.
+a partir de 10/02/2020 estarão abertas as inscrições para o processo seletivo para alunos do curso de mestrado do Programa de Pós-Graduação em Computação Aplicada (PPGCA-CT) do Campus Curitiba da UTFPR, com ingresso no primeiro semestre de 2020. O Programa tem sua área de concentração em  Engenharia de Sistemas Computacionais e seis linhas de pesquisa:
+- Engenharia de Software
+- Visão Computacional e Reconhecimento de Padrões em Imagens
+- Redes e Sistemas Distribuídos
+- Sistemas Embarcados e Robótica
+- Sistemas de Informação
+- Sistemas Inteligentes e Lógica
 
 Nesta seleção, estão sendo ofertadas um total de dez vagas, distribuídas nas áreas: Otimização Linear Inteira Mista (uma vaga); Inteligência Computacional (quatro vagas); Processamento de Imagens (duas vagas); Redes de Computadores e Sistemas Distribuídos (duas vagas); e Engenharia de Software e Interação Humano-Computador (uma vaga). Detalhes sobre os tópicos de cada linha podem ser vistos no edital.
 
