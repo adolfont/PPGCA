@@ -4,7 +4,7 @@
 -  Engenharia de Computação – M e T
 
 ## Campo Mourão
-- Ciências da Computação – M e T
+- Ciência da Computação – M e T
 
 ## Cornélio Procópio
 - Engenharia de Computação – M e T
