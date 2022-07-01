@@ -94,6 +94,7 @@ Muita ajuda pode ser encontrada em
 
 - How to write a great reseach paper, Simon Peyton Jones. Slides: https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf Video: https://www.youtube.com/watch?v=uuoZ3becbXU
 - Apresentações de artigos em Engenharia de Software https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY
+- Seminários Integrados do Forum de Progranas de Pós-Graduação em Computação do Paraná (PPGC-PR) https://www.youtube.com/playlist?list=PLpfoj0mEuvUaP80F0uwTc5Yb-k4eUxHrR
 
 
 
