@@ -66,9 +66,13 @@ Leia a Resolução PPGCA 01/2018 que regulamenta a realização de Seminário de
 
 Se você é estudante regular ou especial, peça o link de acesso pelo e-mail ppgca-ct AT utfpr.edu.br.
 
-## Página no Facebook
+## Divulgação 
+
+### Facebook
 
 Temos uma página no Facebook https://www.facebook.com/ppgcaUTFPR que está bem parada. Se quiser divulgar algo nela, é só mandar e-mail.
+
+### Instagram
 
 Podemos também pedir para divulgar fatos e eventos em https://www.instagram.com/dirppgcuritiba/ e em https://www.instagram.com/proppg.utfpr/.
 
@@ -76,7 +80,9 @@ Estas postagens foram sobre o PPGCA:
 - https://www.instagram.com/p/CdYTu0uOPVL/
 - https://www.instagram.com/p/CeQ673GMKXK/
 
+## E-mail (broadcast)
 
+Docentes podem pedir para divulgar acessando https://broadcast.ct.utfpr.edu.br/
 
 ## Links úteis
 
