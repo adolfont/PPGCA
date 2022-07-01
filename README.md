@@ -35,3 +35,5 @@ Muita ajuda pode ser encontrada em
 ## Atividades de divulgação
 
 Se você é estudante ou docente do PPGCA_CT e participou de alguma atividade que foi gravada, avise pelo email ppgca-ct AT utfpr.edu.br que colocamos [na playlist "Palestras e Entrevistas de Pessoas do PPGCA"](https://www.youtube.com/playlist?list=PL48C-h4_CFXalhaFFXQDjC7oQItg5HIuI).
+
+Se precisar fazer uma live, um evento online no [canal do PPGCA no YouTube](https://www.youtube.com/channel/UC1NFKLdtolDa7jkB0uU0bJg/), é só avisar. Temos acesso (em junho de 2022) ao StreamYard em sua conta paga. 
