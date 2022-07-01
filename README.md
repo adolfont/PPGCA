@@ -1,6 +1,10 @@
 # PPGCA
 
-Informações Públicas sobre o PPGCA-CT UTFPR
+Informações Internas sobre o Programa Pós-Graduação em Computação Aplicada da UTFPR CUritiba (PPGCA-CT UTFPR).
+
+Esta é uma página interna, isto é, para alunos externos, especiais e regulares, assim como para docentes do programa.
+
+Para informações públicas, acesse https://ppgca.ct.utfpr.edu.br/.
 
 
 ## Agenda da Sala CB-204
@@ -25,4 +29,4 @@ Apenas quando há a participação na banca de um membro externo que nunca parti
 
 Muita ajuda pode ser encontrada em 
 - Modelos de Documentos e Procedimentos Stricto Sensu http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelos-de-documentos-e-procedimentos-secretaria-coordenacao-stricto-sensu
-- Documentos, Procedimento, Formulários da Diretoria de Pesquisa e Pós-Graduação do Campus Curitiba https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct 
+- Documentos, Procedimentos, Formulários da Diretoria de Pesquisa e Pós-Graduação do Campus Curitiba https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct 
