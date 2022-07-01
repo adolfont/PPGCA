@@ -89,3 +89,10 @@ Muita ajuda pode ser encontrada em
 - Modelos de Documentos e Procedimentos Stricto Sensu http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelos-de-documentos-e-procedimentos-secretaria-coordenacao-stricto-sensu
 - Documentos, Procedimentos, Formulários da Diretoria de Pesquisa e Pós-Graduação do Campus Curitiba https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct 
 
+
+### Sobre Metodologia de Pesquisa
+
+- How to write a great reseach paper, Simon Peyton Jones. Slides: https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf Video: https://www.youtube.com/watch?v=uuoZ3becbXU
+
+
+
