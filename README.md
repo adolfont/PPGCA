@@ -82,10 +82,9 @@ Estas postagens foram sobre o PPGCA:
 - https://www.instagram.com/p/CdYTu0uOPVL/
 - https://www.instagram.com/p/CeQ673GMKXK/
 
-## E-mail (broadcast)
+### E-mail (broadcast)
 
-Docentes podem pedir para divulgar acessando https://broadcast.ct.utfpr.edu.br/
-
+Docentes podem pedir para divulgar acessando https://broadcast.ct.utfpr.edu.br/. Estudantes podem pedir à corodenação por email.
 ## Links úteis
 
 - Calendário UTFPR Curitiba 2022 https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2735583&id_orgao_publicacao=0
