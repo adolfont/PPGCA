@@ -80,6 +80,16 @@ Estas postagens foram sobre o PPGCA:
 ### E-mail (broadcast)
 
 Docentes podem pedir para divulgar acessando https://broadcast.ct.utfpr.edu.br/. Estudantes podem pedir à corodenação por email.
+
+
+## Exemplos de outros programas onde alunos podem fazer disciplinas como externo
+
+- Todos os do Fórum PPGC-PR https://web.inf.ufpr.br/forppgcc-pr/
+- Todos os da UTFPR http://www.utfpr.edu.br/cursos/mestrado-e-doutorado
+- PPGDESIGN/UFPR http://www.prppg.ufpr.br/site/ppgdesign/pb/ 
+- Porgramas de computação de outros estados
+
+
 ## Links úteis
 
 - Calendário UTFPR Curitiba 2022 https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2735583&id_orgao_publicacao=0
@@ -95,6 +105,7 @@ Muita ajuda pode ser encontrada em
 - How to write a great reseach paper, Simon Peyton Jones. Slides: https://www.microsoft.com/en-us/research/uploads/prod/2016/07/How-to-write-a-great-research-paper.pdf Video: https://www.youtube.com/watch?v=uuoZ3becbXU
 - Apresentações de artigos em Engenharia de Software https://www.youtube.com/playlist?list=PLqYFZmKhrqupT8uSnbL8kpmJhq4f5DQoY
 - Seminários Integrados do Forum de Progranas de Pós-Graduação em Computação do Paraná (PPGC-PR) https://www.youtube.com/playlist?list=PLpfoj0mEuvUaP80F0uwTc5Yb-k4eUxHrR
+
 
 
 
