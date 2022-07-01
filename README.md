@@ -18,17 +18,12 @@ Em 2022/2, por conta de mais turmas após o retorno das aulas presenciais, algum
 
 ## Banca de qualificação e  de defesa de mestrado
 
-O estudante é responsável por iniciar o processo.
+O estudante é responsável por iniciar o processo. Nesta [pasta](https://github.com/adolfont/PPGCA/tree/master/ajuda/marcacao_de_defesas) há informação complementar que pode estar um pouco desatualizada.  
 
 Apenas quando há a participação na banca de um membro externo que nunca participou em nenhuma banca da UTFPR, é necessário preencher [este formulário](http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/formulario_cadastro_membro_externo_banca) e enviar para a secretaria de pós (strictocentro-ct AT utfpr.edu.br) para que o membro seja cadastrado no sistema acadêmico. 
 
 - Tutorial do aluno para agendamento de banca via sistema http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/tutorial_defesa_alunos1.pdf
 - Checklist do aluno para finalização do Mestrado ou Doutorado http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelo_checklist_defesa_aluno
-
-
-
-
-
 
 
 ## Estudos Individuais (Estudo Individual 1, 2 e 3)
