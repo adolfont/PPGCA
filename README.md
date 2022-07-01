@@ -77,6 +77,9 @@ Temos uma página no Facebook https://www.facebook.com/ppgcaUTFPR que está bem 
 
 Podemos também pedir para divulgar fatos e eventos em https://www.instagram.com/dirppgcuritiba/ e em https://www.instagram.com/proppg.utfpr/.
 
+Estas postagens foram sobre o PPGCA:
+- https://www.instagram.com/p/CdYTu0uOPVL/
+- https://www.instagram.com/p/CeQ673GMKXK/
 
 
 
