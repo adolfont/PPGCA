@@ -67,5 +67,7 @@ http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/re
 Leia a Resolução PPGCA 01/2018 que regulamenta a realização de Seminário de Qualificação e a atribuição de créditos para esta atividade complementar http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/regulamentos-e-normas/resolucao-ppgca-01-2018
 
 
+## Servidor Discord para alunos
 
+Se você é estudante regular ou especial, peça o link de acesso pelo e-mail ppgca-ct AT utfpr.edu.br.
 
