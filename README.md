@@ -44,4 +44,28 @@ Se precisar fazer uma live, um evento online no [canal do PPGCA no YouTube](http
 
 Veja instruções na página oficial http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-sem-horario-fixo/disciplinas-sem-horario-fixo
 
+Leia também a Resolução PPGCA 01/2015 que regulamenta a realização de estudos individuais, bem como a atribuição de créditos para este tipo de atividade complementar http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/regulamentos-e-normas/res-01-2015-outras-atividades-estudo-individual-aprovado.pdf
+
+## Exame de Suficiência em Língua Inglesa
+
+Você pode fazer o exame da UTFPR ou de alguma instituição aprovada na IN quev versa sobre a validação de proficiência/suficiência em língua estrangeira. (ver Instrução Normativa nº 002/2019, de 29 de Maio de 2019) http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgte/documentos/requerimentos/validacao/in_001_2017_proppg_exame-proficiencia-lingua-estrangeira-rev.pdf/view
+
+APENAS PARA ALUNOS ESTRANGEIROS: Validação de proficiência em língua portuguesa para estrangeiros (ver Instrução Normativa nº 002/2019, de 29 de Maio de 2019) http://portal.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgte/documentos/requerimentos/validacao/in_001_2017_proppg_exame-proficiencia-lingua-estrangeira-rev.pdf/view
+
+## Apoio para participação em eventos
+
+- Resolução PPGCA 05/2015 - Regulamenta o apoio financeiro para publicação de artigos científicos de docentes e discentes do PPGCA http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/regulamentos-e-normas/res-05-2015-apoio-financeiro-publicacoes-aprovado.pdf
+
+
+## Obtenção de créditos via publicação de artigos 
+
+- Resolução PPGCA 02/2015 - Regulamenta a atribuição de créditos para a aceitação e posterior publicação de artigos de autoria dos alunos do PPGCA
+http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/regulamentos-e-normas/res-02-2015-outras-atividades-aceitacao-artigo-aprovado.pdf
+
+## Exame de Qualificação
+
+Leia a Resolução PPGCA 01/2018 que regulamenta a realização de Seminário de Qualificação e a atribuição de créditos para esta atividade complementar http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/regulamentos-e-normas/resolucao-ppgca-01-2018
+
+
+
 
