@@ -2,7 +2,7 @@
 
 Informações Internas sobre o **Programa de Pós-Graduação em Computação Aplicada** da UTFPR Curitiba (PPGCA-CT UTFPR).
 
-Esta é uma página interna, isto é, para alunos externos, especiais e regulares, assim como para docentes do programa.
+Esta é uma página interna, isto é, para alunos externos, especiais e regulares, assim como para docentes do programa. **PRs são bem-vindos**
 
 Para informações públicas, acesse https://ppgca.ct.utfpr.edu.br/. 
  
