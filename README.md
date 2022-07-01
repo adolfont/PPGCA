@@ -1,4 +1,4 @@
-# PPGCA
+# Programa de Pós-Graduação em Computação Aplicada (PPGCA)
 
 Informações Internas sobre o **Programa de Pós-Graduação em Computação Aplicada** da UTFPR Curitiba (PPGCA-CT UTFPR).
 
