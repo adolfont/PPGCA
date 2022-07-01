@@ -4,8 +4,8 @@ Informações Internas sobre o **Programa de Pós-Graduação em Computação Ap
 
 Esta é uma página interna, isto é, para alunos externos, especiais e regulares, assim como para docentes do programa.
 
-Para informações públicas, acesse https://ppgca.ct.utfpr.edu.br/.
-
+Para informações públicas, acesse https://ppgca.ct.utfpr.edu.br/. 
+ 
 
 ## Agenda da Sala CB-204
 
@@ -38,3 +38,10 @@ Muita ajuda pode ser encontrada em
 Se você é estudante ou docente do PPGCA_CT e participou de alguma atividade que foi gravada, avise pelo email ppgca-ct AT utfpr.edu.br que colocamos [na playlist "Palestras e Entrevistas de Pessoas do PPGCA"](https://www.youtube.com/playlist?list=PL48C-h4_CFXalhaFFXQDjC7oQItg5HIuI).
 
 Se precisar fazer uma live, um evento online no [canal do PPGCA no YouTube](https://www.youtube.com/channel/UC1NFKLdtolDa7jkB0uU0bJg/), é só avisar. Temos acesso (em junho de 2022) ao StreamYard em sua conta paga. 
+
+
+## Estudos Individuais (Estudo Individual 1, 2 e 3)
+
+Veja instruções na página oficial http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-sem-horario-fixo/disciplinas-sem-horario-fixo
+
+
