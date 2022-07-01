@@ -26,11 +26,6 @@ Apenas quando há a participação na banca de um membro externo que nunca parti
 - Checklist do aluno para finalização do Mestrado ou Doutorado http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelo_checklist_defesa_aluno
 
 
-## Links com informações
-
-Muita ajuda pode ser encontrada em 
-- Modelos de Documentos e Procedimentos Stricto Sensu http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelos-de-documentos-e-procedimentos-secretaria-coordenacao-stricto-sensu
-- Documentos, Procedimentos, Formulários da Diretoria de Pesquisa e Pós-Graduação do Campus Curitiba https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct 
 
 
 ## Atividades de divulgação
@@ -85,5 +80,10 @@ Estas postagens foram sobre o PPGCA:
 
 ## Links úteis
 
-Calendário UTFPR Curitiba 2022 https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2735583&id_orgao_publicacao=0
+- Calendário UTFPR Curitiba 2022 https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2735583&id_orgao_publicacao=0
+
+
+Muita ajuda pode ser encontrada em 
+- Modelos de Documentos e Procedimentos Stricto Sensu http://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/manual-secretaria-coordenacao-pos-stricto-sensu-1/modelos-de-documentos-e-procedimentos-secretaria-coordenacao-stricto-sensu
+- Documentos, Procedimentos, Formulários da Diretoria de Pesquisa e Pós-Graduação do Campus Curitiba https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct 
 
