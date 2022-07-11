@@ -119,5 +119,6 @@ Muita ajuda pode ser encontrada em
 - [Lançamentos](https://sistemas2.utfpr.edu.br/url/1514)
 - [Lançamento de atividade complementar (estudo individual e qualificação)](https://sistemas2.utfpr.edu.br/url/950)
 - [Suficiência/Proficiência](https://sistemas2.utfpr.edu.br/url/1486)
+- [Fechamento de Turmas - Stricto Sensu](https://sistemas2.utfpr.edu.br/url/1758)
 
 
