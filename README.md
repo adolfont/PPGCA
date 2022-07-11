@@ -97,6 +97,8 @@ Docentes podem pedir para divulgar acessando https://broadcast.ct.utfpr.edu.br/.
 ## Links úteis
 
 - Calendário UTFPR Curitiba 2022 https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=2735583&id_orgao_publicacao=0
+- [Calendário Pós 2022](https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/proppg/stricto-sensu/calendarios-2022/calendario_pos-graduacao_stricto_sensu_2022.pdf/@@download/file/Calend%C3%A1rio_P%C3%B3s-Gradua%C3%A7%C3%A3o_Stricto_Sensu_2022.pdf)
+  - [Calendários DIRPPG UTFPR](http://www.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/dirppg-ct/calendario-academico-pos-graduacao-stricto-sensu-utfpr-campus-curitiba) 
 
 
 Muita ajuda pode ser encontrada em 
