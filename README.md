@@ -113,5 +113,10 @@ Muita ajuda pode ser encontrada em
 - Seminários Integrados do Forum de Progranas de Pós-Graduação em Computação do Paraná (PPGC-PR) https://www.youtube.com/playlist?list=PLpfoj0mEuvUaP80F0uwTc5Yb-k4eUxHrR
 
 
+## Links diretos Sistema Acadêmico
+
+- [Consulta Pessoa](https://sistemas2.utfpr.edu.br/url/29)
+- [Lançamentos](https://sistemas2.utfpr.edu.br/url/1514)
+- [Lançamento de atividade complementar (estudo individual e qualificação)](https://sistemas2.utfpr.edu.br/url/950)
 
 
