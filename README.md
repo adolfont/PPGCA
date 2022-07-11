@@ -118,5 +118,6 @@ Muita ajuda pode ser encontrada em
 - [Consulta Pessoa](https://sistemas2.utfpr.edu.br/url/29)
 - [Lançamentos](https://sistemas2.utfpr.edu.br/url/1514)
 - [Lançamento de atividade complementar (estudo individual e qualificação)](https://sistemas2.utfpr.edu.br/url/950)
+- [Suficiência/Proficiência](https://sistemas2.utfpr.edu.br/url/1486)
 
 
