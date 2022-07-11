@@ -18,7 +18,7 @@ Em 2022/2, por conta de mais turmas após o retorno das aulas presenciais, algum
 
 ## Regulamento de Pós 
 
-- Regulamento da Pós-Graduação Stricto Sensu da UTFPR  (vigente a partir de 01 de Julho de 2022) https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/proppg/stricto-sensu/regulamento-da-pos-graduacao-stricto-sensu
+- Regulamento da Pós-Graduação Stricto Sensu da UTFPR  (vigente a partir de 01 de Julho de 2022) https://sei.utfpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=3095524&id_orgao_publicacao=0
 
 ## Banca de qualificação e  de defesa de mestrado
 
