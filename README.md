@@ -16,6 +16,10 @@ Para reservar, se você é docente do PPGCA, verifique se o horário está dispo
 
 Em 2022/2, por conta de mais turmas após o retorno das aulas presenciais, algumas turmas da graduação estão sendo alocadas na CB-204.
 
+## Regulamento de Pós 
+
+- Regulamento da Pós-Graduação Stricto Sensu da UTFPR  (vigente a partir de 01 de Julho de 2022) https://portal.utfpr.edu.br/documentos/pesquisa-e-pos-graduacao/proppg/stricto-sensu/regulamento-da-pos-graduacao-stricto-sensu
+
 ## Banca de qualificação e  de defesa de mestrado
 
 O estudante é responsável por iniciar o processo. Nesta [pasta](https://github.com/adolfont/PPGCA/tree/master/ajuda/marcacao_de_defesas) há informação complementar que pode estar um pouco desatualizada.  
