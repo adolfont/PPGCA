@@ -13,3 +13,5 @@ III - Orientar aluno do Programa;
 IV - Ministrar disciplina(s) no Programa;
 
 V - Colaborar com a administração.
+
+**Parágrafo único – As exigências mínimas quantitativas destas atividades, distribuídas ao longo do tempo, considerando os critérios da Área de Avaliação da CAPES, quando houver, deverão constar em Resolução Interna do Programa.**
