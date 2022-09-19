@@ -13,5 +13,20 @@ O esperado é que, no primeiro ano de curso, um estudante regular faça duas dis
 
 O esperado é que, no primeiro ano de curso, um estudante especial faça uma disciplina por fase. 
 
+Um aluno regular precisa cursar 24 créditos ao longo do curso. Destes, 3 são obrigatoriamente cursados através do Seminário de Qualificação. E os demais? São várias as possibilidades. Abaixo alguns exemplos:
+ - 18 créditos em 6 disciplinas e 3 em Estudo Individual
+ - 9 créditos em 3 disciplinas e 9 créditos em 3 Estudos Individuais e 3 créditos via publicação de artigo
+
+Como funcionam os estudos individuais? Leia em http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/documentos/ementario/disciplinas-sem-horario-fixo/disciplinas-sem-horario-fixo
+
+Quais são os horários das disciplina? Varia de fase a fase. Veja aqui:
+  - Fase 3 de 2022 http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/destaques/horarios-das-disciplinas-da-fase-3-do-ppgca-utfpr
+  - Fase 2 de 2022 http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/destaques/horarios-das-disciplinas-da-fase-2-do-ppgca-utfpr
+  - Fase 1 de 2022 http://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct/destaques/horarios-das-disciplinas-da-fase-1-do-ppgca-utfpr
+
+Tem alguma dúvida adicional? Pergunte a ppgca-ct@utfpr.edu.br
+
+
+
 
 
