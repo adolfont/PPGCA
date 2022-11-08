@@ -14,7 +14,9 @@ Para informações públicas, acesse https://ppgca.ct.utfpr.edu.br/.
 
 Para reservar, se você é docente do PPGCA, verifique se o horário está disponível e envie e-mail para ppgca-ct AT utfpr.edu.br.
 
-Em 2022/2, por conta de mais turmas após o retorno das aulas presenciais, algumas turmas da graduação estão sendo alocadas na CB-204.
+Em 2022/2, por conta de mais turmas após o retorno das aulas presenciais, algumas turmas da graduação estão sendo alocadas na CB-204."
+
+"As salas C-301, B-205 e B-002 podem ser agendadas para defesas na Secretaria de Stricto Centro, pelo e-mail strictocentro-ct AT utfpr.edu.br, pelo ramal 4680 ou pessoalmente na sala A-304."
 
 ## Regulamento de Pós 
 
