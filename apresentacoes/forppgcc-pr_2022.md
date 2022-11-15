@@ -10,6 +10,11 @@ footer: 'Adolfo Neto'
 
 # Programa de Pós-Graduação em Computação Aplicada (PPGCA) da UTFPR Curitiba
 
+Site: http://ppgca.ct.utfpr.edu.br
+Email: ppgca-ct@utfpr.edu.br
+
+![h:200](img/logo_ppgca.jpeg) 
+
 ---
 
 # Roteiro
@@ -25,31 +30,54 @@ footer: 'Adolfo Neto'
 
 # Estrutura Geral do Programa: objetivos, perfil discente, etc.
 
+- qualificar recursos humanos na área de computação aplicada, para atender a demanda da região por profissionais qualificados em pesquisa, desenvolvimento tecnológico e inovação tecnológica;
+
+- pessoas do mercado, em grande maioria não recém-formados
+
+- 106 formados, 109 defesas
+- 41 regulares, 13 especiais
+
 ---
 
 # Corpo Docente
 
+- 24 permanentes
+- 3 colaboradores
 
 ---
 
 # Linhas e Grupos de Pesquisa
+
+- Engenharia de Software
+- Visão Computacional e Reconhecimento de Padrões em Imagens
+- Redes e Sistemas Distribuídos
+- Sistemas Embarcados e Robótica
+- Sistemas de Informação
+- Sistemas Inteligentes e Lógica
 
 ---
 
 
 # Pontos fortes do programa
 
+- Articulação com extensão: Cafezíneos, Emílias, Fronteiras da Engenharia de Software 
+
 ---
 
 
 # Principais dificuldades enfrentadas
 
+- Evasão de estudantes (mesmo antes da pandemia)
+- Atração de estudantes (menos de 1 candidato por vaga de regular)
+
+
 ---
 
 # Oportunidades de Parcerias do programa com o Fórum
 
+- Permissão de uso do StreamYard para a transmissão das palestras do Fórum
+
 
 ---
 
 
-Sugerimos contemplar os pontos abaixo na apresentação para que possamos conhecer um pouco mais dos nossos programas, e também pensar em problemas e oportunidades de parcerias para trabalharmos enquanto fórum.
