@@ -60,7 +60,7 @@ Email: ppgca-ct@utfpr.edu.br
 
 # Pontos fortes do programa
 
-- Articulação com extensão: Cafezíneos, Emílias, Fronteiras da Engenharia de Software 
+- Articulação com extensão: [Cafezíneos](https://www.cafezineos.com/), [Emílias](https://www.instagram.com/emilias_utfpr/), [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) 
 
 ---
 
@@ -76,7 +76,7 @@ Email: ppgca-ct@utfpr.edu.br
 # Oportunidades de Parcerias do programa com o Fórum
 
 - Permissão de uso do StreamYard para a transmissão das palestras do Fórum
-
+- Colaboração com outros programas da UTFPR em disciplinas
 
 ---
 
