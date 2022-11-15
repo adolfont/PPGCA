@@ -15,6 +15,8 @@ Email: ppgca-ct@utfpr.edu.br
 
 ![h:200](img/logo_ppgca.jpeg) 
 
+Apresentação para o [Fórum de Programas de Pós-Graduação em Computação do Paraná (ForPPGC-PR)](https://web.inf.ufpr.br/forppgcc-pr/?page_id=663)
+ 
 ---
 
 # Roteiro
@@ -73,7 +75,7 @@ Email: ppgca-ct@utfpr.edu.br
 
 ---
 
-# Oportunidades de Parcerias do programa com o Fórum
+# Oportunidades de Parcerias do programa com o [Fórum](https://web.inf.ufpr.br/forppgcc-pr/)
 
 - Permissão de uso do StreamYard para a transmissão das palestras do Fórum
 - Colaboração com outros programas da UTFPR em disciplinas
