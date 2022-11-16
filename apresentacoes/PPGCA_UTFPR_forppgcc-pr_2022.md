@@ -74,6 +74,7 @@ Apresentação para o [Fórum de Programas de Pós-Graduação em Computação d
 
 - Evasão de estudantes (mesmo antes da pandemia)
 - Atração de estudantes (menos de 1 candidato por vaga de regular)
+    - Atração muito pequena de nossos próprios egressos de Engenharia de Computação e de Sistemas de Informação, que recebem pelo menos 7 mil no mercado mesmo antes de se formarem
 
 
 ---
