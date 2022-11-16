@@ -16,7 +16,7 @@ Email: ppgca-ct@utfpr.edu.br
 ![h:200](img/logo_ppgca.jpeg) 
 
 Apresentação para o [Fórum de Programas de Pós-Graduação em Computação do Paraná (ForPPGC-PR)](https://web.inf.ufpr.br/forppgcc-pr/?page_id=663)
- 
+
 ---
 
 # Roteiro
@@ -64,7 +64,7 @@ Apresentação para o [Fórum de Programas de Pós-Graduação em Computação d
 
 - Articulação com extensão: [Cafezíneos](https://www.cafezineos.com/), [Emílias](https://www.instagram.com/emilias_utfpr/), [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) 
 - Articulação com projetos internacionais (como o [Smart City Concepts in Curitiba – Low carbon transport and mobility in a digital society](https://smartcityconcepts.chalmers.se/))
-- Articulação com a Prefeitura de Curitiba, IPPUC, URBS, ISO e Comitê de Dados Abertos de Curitiba;
+- Articulação com a Prefeitura de Curitiba, IPPUC, URBS, ISO e Comitê de Dados Abertos de Curitiba
 - Articulação com a internacionalização (com disciplinas propostas em inglês) e coordenação de congressos de renome nacionais (só em 2022 foram o SBSI e o Webmedia)
 
 ---
@@ -81,8 +81,16 @@ Apresentação para o [Fórum de Programas de Pós-Graduação em Computação d
 # Oportunidades de Parcerias do programa com o [Fórum](https://web.inf.ufpr.br/forppgcc-pr/)
 
 - Permissão de uso do StreamYard para a transmissão das palestras do Fórum
-- Colaboração com outros programas da UTFPR em disciplinas
+- Colaboração com outros programas em disciplinas
+
 
 ---
+
+# Programa de Pós-Graduação em Computação Aplicada (PPGCA) da UTFPR Curitiba
+
+Site: http://ppgca.ct.utfpr.edu.br
+Email: ppgca-ct@utfpr.edu.br
+
+![h:200](img/logo_ppgca.jpeg) 
 
 
