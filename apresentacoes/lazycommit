@@ -1,0 +1,1 @@
+git add . ; git commit -m "Nova versão dos slides" ; git push origin master
