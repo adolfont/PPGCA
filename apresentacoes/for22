@@ -1,1 +1,1 @@
-npx @marp-team/marp-cli@latest forppgcc-pr_2022.md --pdf --allow-local-files
+npx @marp-team/marp-cli@latest PPGCA_UTFPR_forppgcc-pr_2022.md --pdf --allow-local-files
